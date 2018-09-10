@@ -14,7 +14,11 @@ def solution2P3Q(N):
             v2p3q = v2p * v3q
             # store the calculated value
             list2p3q.append(v2p3q)
+<<<<<<< HEAD
             q+= 1
+=======
+            q += 1
+>>>>>>> c092e86195a114a1790ccd453cb7f245ed01b593
         p+= 1
     # sorting the values
     list2p3q.sort()
